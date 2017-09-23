@@ -1,7 +1,6 @@
 {
   "name": "hellojs-s03e04",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,8 +9,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "body-parser": "^1.18.2",
     "express": "^4.15.4",
     "knex": "^0.13.0",
     "sqlite3": "^3.1.12"
-  }
+  },
+  "description": ""
 }
